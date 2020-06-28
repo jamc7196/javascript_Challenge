@@ -1,5 +1,9 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
+To see the invasion please enter the following links:
+https://jamc7196.github.io/javascript_Challenge/UFO%20LEVEL%201/StarterCode/index.html
+https://jamc7196.github.io/javascript_Challenge/UFO%20LEVEL%202/StarterCode/index.html
+
 ## Background
 
 WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
